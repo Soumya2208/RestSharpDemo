@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{1D6BD226-1AD2-4832-A692-26B19907A8C4}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.APIDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestSharpDemo/Models/UserData.cs">
+    <Files>
+      <File FileName="APITests/Features/CreateUser.feature" />
+      <File FileName="packages/SpecFlow.Tools.MsBuild.Generation.3.9.74/build/SpecFlow.Tools.MsBuild.Generation.targets" />
+      <File FileName="APITests/Properties/AssemblyInfo.cs" />
+      <File FileName="APITests/Features/CreateUserSteps.cs" />
+      <File FileName="APIDemo/packages.config" />
+      <File FileName="APIDemo/App.config" />
+      <File FileName="RestSharpDemo/Properties/AssemblyInfo.cs" />
+      <File FileName="APIDemo/Properties/AssemblyInfo.cs" />
+      <File FileName="APITests/packages.config" />
+      <File FileName="APITests/Test Data/CreateUser.csv" />
+      <File FileName="APITests/Test Data/CreateUser.json" />
+      <File FileName="APITests/app.config" />
+      <File FileName="RestSharpDemo/Demo.cs" />
+      <File FileName="RestSharpDemo/Helper.cs" />
+      <File FileName="RestSharpDemo/Models/Users.cs" />
+      <File FileName="RestSharpDemo/Models/UserData.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APIDemo" expanded="True">
+            <Node name="APIDemo" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="APITests" expanded="True">
+              <Node name="Features" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="RestSharpDemo" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

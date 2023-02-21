@@ -46,7 +46,7 @@ namespace RestSharpDemo
                 { "Content-Type", "application/json" }
 
             });
-            //request.AddFile("Test file", @"C:\Users\yadavm\Downloads\Test.txt", "multipart/form-data");
+           
             return request;
         }
 
